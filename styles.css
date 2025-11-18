@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/07/18/18/35/poppies-6476322_1280.jpg);
+    font-family: 'Shadows Into Light Two', cursive;
+    color: darkmagenta;
+}
+h1,p {
+    color: darkmagenta;
+    font-family: 'Sour Gummy', cursive;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 11px;
+}
+h3 {
+    color: darkmagenta;
+    background-color: palevioletred;
+    font-family: 'Sour Gummy', cursive;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 21px;
+    box-shadow: 5px 10px deeppink;
+}
+.col-md-6, .col-md-12 {
+    color: darkmagenta;
+}
+ul {
+    font-family: 'Shadows Into Light Two', cursive;
+}
+p {
+    font-family: 'Shadows Into Light Two', cursive;
+}
+.hero-image {
+    background-color: palevioletred;
+    text-align: center;
+}
+.hero-text {
+    color: darkmagenta;
+}
